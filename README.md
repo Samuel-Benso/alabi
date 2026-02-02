@@ -8,7 +8,7 @@ This is a professional portfolio website developed for Alabi Stephen Oladipupo, 
 
 ## Live Demo
 
-[View Live Portfolio](https://yourusername.github.io/repository-name) *(Replace with actual GitHub Pages URL after deployment)*
+[View Live Portfolio](https://alabi-one.vercel.app/)
 
 ## Technical Implementation
 
